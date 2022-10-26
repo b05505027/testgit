@@ -5,3 +5,6 @@ So let me try to wrtie something down that is meaningful.
 
 
 Today I'm gonna use the training-tool to start a test of MNIST photo recognition.
+
+
+Just try to add some random words to the file from the github.
